@@ -15,7 +15,7 @@
 | Node.js | v24.15.0 (ветка 24 LTS) |
 | npm | 11.12.1 |
 | Git | 2.54.0.windows.1 |
-| Браузер | Google Chrome |
+| Браузер | Google Chrome 155.0.8059.80 |
 
 ## 3. Запуск
 
